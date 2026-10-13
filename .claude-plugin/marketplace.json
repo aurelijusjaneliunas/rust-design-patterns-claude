@@ -1,5 +1,6 @@
 {
   "name": "rust-design-patterns",
+  "description": "Marketplace for the rust-design-patterns Claude Code plugin: Rust idioms, design patterns and anti-patterns from the Rust Design Patterns book.",
   "owner": {
     "name": "Aurelijus Janeliunas"
   },
