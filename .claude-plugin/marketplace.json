@@ -1,0 +1,16 @@
+{
+  "name": "rust-design-patterns",
+  "owner": {
+    "name": "Aurelijus Janeliunas"
+  },
+  "plugins": [
+    {
+      "name": "rust-design-patterns",
+      "source": "./",
+      "description": "Rust idioms, design patterns and anti-patterns from the Rust Design Patterns book: guidance while writing Rust, plus a review skill that audits code for anti-patterns and missed idioms.",
+      "version": "0.1.0",
+      "license": "MPL-2.0",
+      "keywords": ["rust", "design-patterns", "idioms", "anti-patterns", "code-review", "ffi"]
+    }
+  ]
+}
