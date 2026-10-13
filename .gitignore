@@ -15,3 +15,5 @@ out/
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
+
+.cursor/
